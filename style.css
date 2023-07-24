@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+html{
+    height: 100%;
+}
+
+canvas{
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.modal-title{
+    font-size: xx-large;
+}
+
+.modal-body{
+    font-size: x-large;
+}

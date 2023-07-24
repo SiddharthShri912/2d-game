@@ -1,0 +1,91 @@
+.header{
+    font-size: xx-large;
+    font-family: sans-serif;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+body{
+    background-image: url('87252.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+html{
+    height: 100%;
+}
+
+.header-subtext{
+    margin-top: 40px;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding: 16px;
+    font-size: x-large;
+}
+
+.lead{
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    height: 300px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.in{
+    margin-top: 20px;
+}
+
+.para{
+    font-size: x-large;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 30px;
+    margin-left: 110px;
+    background-color: green;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+.btn:hover{
+    opacity: 1;
+    background-color: green;
+}
+
+.status{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.leaderboard{
+    margin-top: 100px;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    height: 800px;
+    margin-left: 300px;
+    width: 600px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.play-again{
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 100px;
+}
