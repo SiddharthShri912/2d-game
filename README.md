@@ -5,7 +5,7 @@ So I used vanilla Javascript to create this. To make a player I used a class and
 
 Also implemented platoforms using the classes and made a collision logic, Not the best but it workds for this version.
 
-The death claues is falling below the canvas height.
+The death claues is falling below the canvas height and it brings the player to the starting position.
 
 The win condition is calculated with how many pixels has the user travelled.
 
@@ -17,3 +17,9 @@ Future Plans:
 3. Add a score system and implement an actual leaderboard
 4. Make double jump a better feature than an infinite jump.
 5. Use better sprite, although I do not how to create sprites and backgrounds and platforms, in future I do want to learn and make it by myself.
+
+I want to learn an actual JavaScript Framework which makes this much easier, but i find vanilla Javascript to be easy and challenging at the same time I am very comfortable with the syntax but I do wish to learn new things in the future.
+
+The physics implemented can be improved and optimized to make the game more easy or harder and ultimately implement a difficulty system.
+
+It was a great experience to learn JavaScript classes and its Object oriented side of things and definetly want to add to this project later on with more knowledge
