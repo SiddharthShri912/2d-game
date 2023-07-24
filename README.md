@@ -1,6 +1,8 @@
 # 2d-game
 A Mario-type 2d game made in JavaScript and HTML using canvas element.
 
+Note: Also for some reason this only works if the browser is on 50% zoom. So, I do wish to make it better in the future. Also, The physics and movement looks very clunky as i couldnt find a good sprite.
+
 So I used vanilla Javascript to create this. To make a player I used a class and a constructor and gave it some properties like velocity and position and using eventlistners on keys like w a s d , I made it so the blocks gains and loses velocity. Also there is a gravity property I have added some physics. All the rendering is done using the method  requestAnimationFrame() and keep drawing the player as its position changes according to user input.
 
 Also implemented platoforms using the classes and made a collision logic, Not the best but it workds for this version.
